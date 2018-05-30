@@ -1,0 +1,21 @@
+.animal-button{
+    padding: .5% .5% .5% .5%;
+    margin: 1% 1% 1% 1%;
+    background-color: teal;
+    display: inline;
+    border-radius: 1ch
+}
+.add-button{
+    display: inline-block;
+    background-color: gray;
+    padding: .5% .5% .5% .5%;
+    margin: 1% 1% 1% 1%;
+    border-radius: 1ch
+}
+.add-new-animal{
+    margin: 1% 1% 1% 1%;
+}
+/* .result-container{
+    display:block;;
+    float:left;
+} */
